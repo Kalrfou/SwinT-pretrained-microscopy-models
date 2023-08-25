@@ -5,7 +5,7 @@
 
 ## Pretrained microscopy models
 
-| Swin-T architecture | Pre-training method |Top-1 accuracy|top-5 accuracy |Download|
+| Swin-T architecture | Pre-training method |Top-1 accuracy|top-5 accuracy | Download|
 | --- | --- | --- | --- | --- |
 | Original | MicroLite | 84.23 | 95.91 |  |
 | Original | ImageNet → MicroLite  | 84.63 | 96.353  |  |
