@@ -14,7 +14,7 @@
 
 
 ## Dataset
-The datasets used in this repository were obtained from NASA GitHub. They consist of 7 microscopy datasets derived from two materials:
+The datasets used in this repository were obtained from NASA GitHub ([pretrained-microscopy-models](https://github.com/nasa/pretrained-microscopy-models)). They consist of 7 microscopy datasets derived from two materials:
 Nickel-based superalloys (Super): These datasets have 3 classes: matrix, secondary, and tertiary.
 Environmental barrier coatings (EBC): These datasets have 2 classes: oxide layer and background (non-oxide) layer.
 
