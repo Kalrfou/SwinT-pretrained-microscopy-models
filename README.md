@@ -1,12 +1,12 @@
 # Transfer Learning for Microstructure Segmentation with CS-UNet: A Hybrid Algorithm with Transformer and CNN Encoders
-# News
+## News
 
-# Introduction
+## Introduction
 
-# Pretrained microscopy models
-## Benchmarking
-## Dataset
+## Pretrained microscopy models
+### Benchmarking
+### Dataset
 
-# Citation
+## Citation
 
 
