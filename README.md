@@ -16,7 +16,6 @@
 ## Dataset
 
 ## Citation
-### Citing Swin Transformer
 <pre class="notranslate"><code>@inproceedings{liu2021Swin,
   title={Swin Transformer: Hierarchical Vision Transformer using Shifted Windows},
   author={Liu, Ze and Lin, Yutong and Cao, Yue and Hu, Han and Wei, Yixuan and Zhang, Zheng and Lin, Stephen and Guo, Baining},
