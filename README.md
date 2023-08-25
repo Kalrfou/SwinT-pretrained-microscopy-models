@@ -25,7 +25,7 @@
 }
 </code></pre>
 ### Citing Swin-Unet
-@inproceedings{cao2022swin,
+<pre class="notranslate"><code>@inproceedings{cao2022swin,
   title={Swin-unet: Unet-like pure transformer for medical image segmentation},
   author={Cao, Hu and Wang, Yueyue and Chen, Joy and Jiang, Dongsheng and Zhang, Xiaopeng and Tian, Qi and Wang, Manning},
   booktitle={European conference on computer vision},
