@@ -16,6 +16,7 @@
 ## Dataset
 
 ## Citation
+### Citing Swin Transformer
 <pre class="notranslate"><code>
       @inproceedings{liu2021Swin,
   title={Swin Transformer: Hierarchical Vision Transformer using Shifted Windows},
