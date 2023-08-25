@@ -16,7 +16,13 @@
 ## Dataset
 
 ## Citation
-[liu2021Swin]: https://arxiv.org/abs/2103.14030
+
+@misc{yang2022focal,
+      title={Focal Modulation Networks}, 
+      author={Jianwei Yang and Chunyuan Li and Xiyang Dai and Jianfeng Gao},
+      journal={Advances in Neural Information Processing Systems (NeurIPS)},
+      year={2022}
+}
 
 
 
