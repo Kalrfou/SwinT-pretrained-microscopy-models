@@ -1,4 +1,4 @@
-# <font color="green"> SwinT-pretrained-microscopy-models </font> 
+# '#0969DA' SwinT-pretrained-microscopy-models'#0969DA' 
 
 # Introduction
 
