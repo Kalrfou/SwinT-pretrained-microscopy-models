@@ -8,7 +8,7 @@
 | Swin-T architecture | Pre-training method |Top-1 accuracy|top-5 accuracy | Download|
 | --- | --- | --- | --- | --- |
 | Original | MicroLite | 84.23 | 95.91 |  |
-| Original | ImageNet → MicroLite  | 84.63 | 96.353  |  |
+| Original | ImageNet → MicroLite  | 84.63 | 96.35  |  |
 | Intermediate | MicroLite | 84.0 | 96.91  |   |
 | Intermediate | ImageNet → MicroLite | 84.45 | 97.83 |  |
 
