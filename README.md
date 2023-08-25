@@ -16,12 +16,14 @@
 ## Dataset
 
 ## Citation
-@misc{yang2022focal,
+<code>@misc{yang2022focal,
       title={Focal Modulation Networks}, 
       author={Jianwei Yang and Chunyuan Li and Xiyang Dai and Jianfeng Gao},
       journal={Advances in Neural Information Processing Systems (NeurIPS)},
       year={2022}
 }
+</code>
+
 
 
 
