@@ -16,13 +16,13 @@
 ## Dataset
 
 ## Citation
-<code>@inproceedings{liu2021Swin,
-  title={Swin Transformer: Hierarchical Vision Transformer using Shifted Windows},
-  author={Liu, Ze and Lin, Yutong and Cao, Yue and Hu, Han and Wei, Yixuan and Zhang, Zheng and Lin, Stephen and Guo, Baining},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year={2021}
+<pre class="notranslate"><code>@misc{yang2022focal,
+      title={Focal Modulation Networks}, 
+      author={Jianwei Yang and Chunyuan Li and Xiyang Dai and Jianfeng Gao},
+      journal={Advances in Neural Information Processing Systems (NeurIPS)},
+      year={2022}
 }
-</code>
+</code></pre>
 
 
 
