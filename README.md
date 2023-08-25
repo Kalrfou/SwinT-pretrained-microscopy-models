@@ -4,7 +4,6 @@
 ## Introduction
 
 ## Pretrained microscopy models
-### Benchmarking
 
 | Swin-T architecture | Pre-training method |Top-1 accuracy|top-5 accuracy|Number of epochs to converge|Download|
 | --- | --- | --- | --- | --- | --- |
