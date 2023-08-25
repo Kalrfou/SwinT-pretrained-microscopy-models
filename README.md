@@ -2,7 +2,7 @@
 ## News
 
 ## Introduction
-![alt text](https://github.com/Kalrfou/SwinT-pretrained-microscopy-models/blob/main/figures/Gen4.jpeg)
+![alt text](https://github.com/Kalrfou/SwinT-pretrained-microscopy-models/blob/main/figures/NewFig1.jpeg)
 ## Pretrained microscopy models
 
 | Swin-T architecture |Depth | Pre-training method |Top-1 accuracy|top-5 accuracy | Download|
