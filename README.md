@@ -10,6 +10,7 @@ The encoder-decoder architecture for microstructure segmentation with transferri
 are pre-trained on ImageNet and microscopy images. The weights of the pre-trained CNN and Swin-T models are used to initialize the
 encoders while the weights of the Swin-T models are used to initialize the decoders.
 ## Pretrained microscopy models
+You can download the pretrained MicroLite Swin-T encoders, which utilize transfer learning from classification models trained on an extensive dataset of microscopy images containing over 50,000 images.
 
 | Swin-T architecture |Depth | Pre-training method |Top-1 accuracy|top-5 accuracy | Download|
 | --- | --- | --- | --- | --- | --- |
