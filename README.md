@@ -2,7 +2,7 @@
 ## News
 
 ## Introduction
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2308.13917)
+Feel free to check out our preprint on arXiv:(https://arxiv.org/abs/2308.13917) &#8291;
 
 
 ![alt text](https://github.com/Kalrfou/SwinT-pretrained-microscopy-models/blob/main/figures/NewFig1.jpeg)
