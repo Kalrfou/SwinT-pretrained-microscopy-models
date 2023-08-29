@@ -2,7 +2,8 @@
 ## News
 
 ## Introduction
-[![arXiv](https://arxiv.org/abs/2308.13917)])
+[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2308.13917)
+
 
 ![alt text](https://github.com/Kalrfou/SwinT-pretrained-microscopy-models/blob/main/figures/NewFig1.jpeg)
 The encoder-decoder architecture for microstructure segmentation with transferring learning, where the CNN and Swin-T models
