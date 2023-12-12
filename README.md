@@ -9,7 +9,7 @@
 Feel free to check out our preprint on [arXiv](https://arxiv.org/abs/2308.13917) &#8291;
 
 
-![alt text](https://github.com/Kalrfou/SwinT-pretrained-microscopy-models/blob/main/figures/NewFig1.jpeg)
+![alt text](https://github.com/Kalrfou/SwinT-pretrained-microscopy-models/blob/main/figures/Fig1.jpeg)
 The encoder-decoder architecture for microstructure segmentation with transferring learning, where the CNN and Swin-T models
 are pre-trained on ImageNet and microscopy images. The weights of the pre-trained CNN and Swin-T models are used to initialize the
 encoders while the weights of the Swin-T models are used to initialize the decoders.
