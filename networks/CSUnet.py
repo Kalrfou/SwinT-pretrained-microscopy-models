@@ -21,7 +21,6 @@ from .CSUNetSys import CSUnetSys
 logger = logging.getLogger(__name__)
 
 class CSUnet(nn.Module):
-    # We need to add the following params: Swin(tiny, wide), ResMLP (0,1), CNN_Encoder type, CNN weights type, Swin-T weights type)
     def __init__(self, config, img_size=224, num_classes=21843, resmlp=1,cnn='efficientnet-b4',weights='imagenet',swin_pre_path='', zero_head=False, vis=False):
         super(CSUnet, self).__init__()
         self.num_classes = num_classes
